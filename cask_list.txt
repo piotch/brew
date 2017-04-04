@@ -4,6 +4,7 @@ deezer
 docker
 dropbox
 filezilla
+flux
 font-anonymous-pro
 font-dejavu-sans
 font-roboto-mono
