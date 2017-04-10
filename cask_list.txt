@@ -16,4 +16,5 @@ robomongo
 skype
 slack
 spectacle
+transmission
 vlc
