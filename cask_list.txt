@@ -8,6 +8,7 @@ flux
 font-anonymous-pro
 font-dejavu-sans
 font-roboto-mono
+font-source-code-pro
 iterm2
 lunchy
 openoffice
