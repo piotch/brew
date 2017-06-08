@@ -1,4 +1,5 @@
 atom
+basictex
 dbglass
 deezer
 docker
@@ -9,6 +10,7 @@ font-anonymous-pro
 font-dejavu-sans
 font-roboto-mono
 font-source-code-pro
+github-desktop
 iterm2
 lunchy
 openoffice
@@ -18,4 +20,5 @@ skype
 slack
 spectacle
 transmission
+visual-studio-code
 vlc
