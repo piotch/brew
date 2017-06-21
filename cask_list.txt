@@ -8,6 +8,7 @@ filezilla
 flux
 font-anonymous-pro
 font-dejavu-sans
+font-fira-code
 font-roboto-mono
 font-source-code-pro
 github-desktop

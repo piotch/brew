@@ -37,6 +37,7 @@ libunistring
 libxml2
 libxmlsec1
 libyaml
+lynx
 macvim
 mplayer
 nettle
