@@ -12,6 +12,7 @@ font-fira-code
 font-roboto-mono
 font-source-code-pro
 github-desktop
+google-photos-backup
 iterm2
 lunchy
 openoffice
@@ -20,6 +21,7 @@ robomongo
 skype
 slack
 spectacle
+texmaker
 transmission
 visual-studio-code
 vlc

@@ -20,6 +20,7 @@ gobject-introspection
 harfbuzz
 hdf5@1.8
 htop
+httpie
 icu4c
 imagemagick@6
 jpeg
@@ -47,6 +48,7 @@ oniguruma
 openssl
 openssl@1.1
 p11-kit
+p7zip
 pandoc
 pango
 pcre
@@ -54,6 +56,7 @@ pcre2
 pixman
 pkg-config
 python
+python3
 readline
 shared-mime-info
 sqlite
