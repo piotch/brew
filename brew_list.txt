@@ -5,6 +5,7 @@ cscope
 ctags
 emacs-plus
 enca
+entr
 fish
 fontconfig
 freetds@0.91
@@ -17,11 +18,13 @@ glib
 gmp
 gnutls
 gobject-introspection
+graphite2
 harfbuzz
 hdf5@1.8
 htop
 httpie
 icu4c
+imagemagick
 imagemagick@6
 jpeg
 jq
@@ -55,6 +58,7 @@ pcre
 pcre2
 pixman
 pkg-config
+pyenv
 python
 python3
 readline

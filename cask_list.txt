@@ -1,7 +1,6 @@
 atom
 basictex
 dbglass
-deezer
 docker
 dropbox
 filezilla
@@ -14,6 +13,7 @@ font-source-code-pro
 github-desktop
 google-photos-backup
 iterm2
+java
 lunchy
 openoffice
 pycharm-ce
