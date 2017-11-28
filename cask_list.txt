@@ -14,13 +14,15 @@ github-desktop
 google-photos-backup
 iterm2
 java
+keybase
 lunchy
 openoffice
 pycharm-ce
-robomongo
+robo-3t
 skype
 slack
 spectacle
+supercollider
 texmaker
 transmission
 visual-studio-code
