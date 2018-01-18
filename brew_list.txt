@@ -6,7 +6,6 @@ cairo
 coreutils
 cscope
 ctags
-emacs-plus
 enca
 entr
 faad2
@@ -17,6 +16,7 @@ fontconfig
 freetds@0.91
 freetype
 fzf
+gd
 gdbm
 gdk-pixbuf
 gettext
@@ -27,6 +27,7 @@ gnupg
 gnutls
 gobject-introspection
 graphite2
+graphviz
 harfbuzz
 hdf5@1.8
 htop
@@ -88,6 +89,7 @@ szip
 the_silver_searcher
 tmux
 tree
+webp
 x264
 xvid
 xz
