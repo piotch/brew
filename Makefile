@@ -1,11 +1,5 @@
-
-tap:
-	brew tap caskroom/cask caskroom/fonts
-
 inst:
-	cat brew_list.txt | xargs brew install
-	cat cask_list.txt | xargs brew cask install
+	cat packages.txt | xargs brew install
 
-list:
-	brew list > brew_list.txt
-	brew cask list > cask_list.txt
+list-candidates:
+	brew list > packages-candidates.txt
